@@ -1,3 +1,10 @@
+# DORUSOMCUTEAN.COM - HOW TO: Create Lumen API – Basic
+
+This is a basic API project that was built using the Lumen Framework. Is part of this tutorial blog post:
+https://www.dorusomcutean.com/how-to-create-lumen-api-basic/
+
+Feel free to use it as you want.
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
